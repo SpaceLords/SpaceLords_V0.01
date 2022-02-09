@@ -1,0 +1,12 @@
+*.log
+*.ipch
+CachedAssetRegistry.bin
+PackageRestoreData.json
+CrashReportClient.ini
+CrashContext.runtime-xml
+UE4Minidump.dmp
+Intermediate/*
+.vs/*
+Binaries/*
+Saved/*
+DerivedDataCache/*
