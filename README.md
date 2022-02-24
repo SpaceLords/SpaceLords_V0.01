@@ -7,3 +7,4 @@
 * B: Anchor mode (allows building and stops ship)
 * Q + E: Turn ship left/right
 * Click + Drag: Turn ship in the direction of the mouse
+* Scroll Wheel: Zoom camera
