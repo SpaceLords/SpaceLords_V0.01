@@ -21,6 +21,9 @@ Use this repository to make a playable build using Unreal Engine or download a p
 * Q + E: Turn ship left/right
 * Click + Drag: Turn ship in the direction of the mouse
 * Scroll Wheel: Zoom camera
+
+### Survey
+If you want to help us make a better game please fill out our game survey in [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSce4wNbkYUj1dHVf26_cdl-LjrEXQ0Jh6ZHE7D5DhnC_sKFFQ/viewform?usp=sf_link)
 ___________________________________________________
 
 ## Team
@@ -34,7 +37,8 @@ Lead Game Developer - Kirk - [Github](https://github.com/kirklogan1)
 
 
 Artist - DeepFold - [Github](https://github.com/Deep-Fold)
-> Responsible for the NFT art and some of the art assets in the game.
+> Responsible for the NFT art.
 
-Disclaimer: We responsibly used many freeuse assets in order to create this game.
+Disclaimer about the art
+We responsibly used many freeuse assets in order to create this game.
 
