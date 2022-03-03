@@ -7,13 +7,13 @@
 
 Space lords V0.01 is a demo version for a videogame centered around building and desiging spaceships to battle and conquer space.
 
-Hire mercenaries, earn bounties, and conquer systems. We plan to make Play-2-Earn mechanics with NFTs.
+Hire mercenaries, earn bounties, and conquer systems. We plan to make Play-&-Earn mechanics incorporated with NFTs and other token standards.
 
 
 Here is the first iteration of this project, non-nft version. This is not by any means a finished product as this game is in active development.
 
 #### Play the demo today!
-Use this repository to make a playable build using Unreal Engine or download a playable build using ours [Google Drive](https://drive.google.com/file/d/1mUFik2XCTtHCKINNtFrZLW9zTQ3LI71F/view?usp=sharing) You must have at least 12 GB of Free Space Available in your computer.
+Use this repository to make a playable build using Unreal Engine or download a playable build using ours in [Google Drive](https://drive.google.com/file/d/1mUFik2XCTtHCKINNtFrZLW9zTQ3LI71F/view?usp=sharing) You must have at least 12 GB of Free Space Available in your computer.
 
 ### Controls:
 * W-A-S-D : forward/back/strafe-left/strafe-right
